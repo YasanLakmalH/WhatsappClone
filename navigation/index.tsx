@@ -3,8 +3,7 @@ import Colors from "../constants/Colors";
 import { View } from 'react-native';
 import { Octicons,MaterialCommunityIcons } from '@expo/vector-icons';
 import BottomTabNavigator from "./MainTabNavigator";
-import { Feather } from '@expo/vector-icons';
-
+import { SimpleLineIcons } from '@expo/vector-icons';
 const Stack = createStackNavigator();
 
 function RootNavigator() {
@@ -32,9 +31,9 @@ function RootNavigator() {
                 width:150,
                 justifyContent:'space-evenly',
             }}>
-                <Feather name="camera" size={22} color="white" />
-                <Octicons name='search' size={22} color={'white'} />
-                <MaterialCommunityIcons name='dots-vertical' size={22} color={'white'}/>
+              <SimpleLineIcons name="camera" size={22} color={Colors.light.background} />
+                <Octicons name='search' size={22} color={Colors.light.background} />
+                <MaterialCommunityIcons name='dots-vertical' size={22} color={Colors.light.background}/>
             </View>
           )
         }}

@@ -1,7 +1,7 @@
 import { View } from 'react-native';
-const Calls = () => {
+const CallsScreen = () => {
     return(
         <View></View>
     )
 }
-export default Calls;
+export default CallsScreen;

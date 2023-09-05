@@ -1,7 +1,7 @@
 import { View } from 'react-native';
-const Status = () => {
+const StatusScreen = () => {
     return(
         <View></View>
     )
 }
-export default Status;
+export default StatusScreen;

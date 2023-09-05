@@ -1,8 +1,8 @@
 import { View } from 'react-native';
 
-const Community = () => {
+const CommunityScreen = () => {
     return (
         <View></View>
     )
 }
-export default Community;
+export default CommunityScreen;

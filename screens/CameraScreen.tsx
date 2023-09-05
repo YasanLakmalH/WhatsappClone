@@ -1,8 +1,8 @@
 import { View } from 'react-native';
 
-const Camera = () => {
+const CameraScreen = () => {
     return (
         <View></View>
     )
 }
-export default Camera;
+export default CameraScreen;
