@@ -17,17 +17,18 @@ const styles = StyleSheet.create({
     },    
     midContainer:{
         justifyContent:"center",
-    },
+     },
     userName:{
         fontWeight:"bold",
         fontSize:20
     },
     lastMessage:{
         fontSize:16,
-        color:"grey"
+        color:"grey",
+    
     },  
     time:{
-        fontSize:16,
+        fontSize:16, 
         color:'grey'
     }
 

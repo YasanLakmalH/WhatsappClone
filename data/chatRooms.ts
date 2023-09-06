@@ -15,7 +15,7 @@ export default [
     ],
     lastMessage:{
         id:"m1",
-        content:"Well done this sprint, guys!",
+        content:"Well done this sprint, guys! hello im im im im ifjljkafljkdla jkfjdlafjlksdj",
         createdAt:"2020-10-03T14:48:00.000Z"
     }   
   },
@@ -24,8 +24,8 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Nick",
-        imageUri: "https://images.unsplash.com/photo-1618641986557-1ecd230959aa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        name: "Lucas",
+        imageUri: "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       },
       {
         id: "u2",
@@ -43,8 +43,8 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Amelia",
-        imageUri: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        name: "Lucas",
+        imageUri: "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       },
       {
         id: "u2",
@@ -62,8 +62,8 @@ export default [
     users: [
       {
         id: "u1",
-        name: "Robin",
-        imageUri: "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        name: "Lucas",
+        imageUri: "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       },
       {
         id: "u2",
@@ -81,8 +81,8 @@ export default [
     users: [
       {
         id: "u1",
-        name: "James",
-        imageUri: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fHByb2ZpbGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        name: "Lucas",
+        imageUri: "https://images.unsplash.com/photo-1529665253569-6d01c0eaf7b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZmlsZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
       },
       {
         id: "u2",
