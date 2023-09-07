@@ -1,3 +1,4 @@
+import React from 'react';
 import { createMaterialTopTabNavigator } from "@react-navigation/material-top-tabs";
 import CommunityScreen from "../screens/CommunityScreen";
 import ChatsScreen from "../screens/ChatsScreen";
@@ -44,7 +45,6 @@ export default function MainTabNavigator() {
         component={ChatsScreen}
         options={{
           title: "Chats",
-          
         }}
       ></MainTab.Screen>
       <MainTab.Screen
