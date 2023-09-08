@@ -45,11 +45,7 @@ function RootNavigator() {
                 justifyContent: "space-evenly",
               }}
             >
-              <SimpleLineIcons
-                name="camera"
-                size={22}
-                color={Colors.light.background}
-              />
+             <Ionicons name="md-camera-outline" size={24} color="white" />
               <Octicons
                 name="search"
                 size={22}
