@@ -1,4 +1,5 @@
 import { StyleSheet } from 'react-native';
+
 const styles = StyleSheet.create({  
     container:{
         width:"100%",
@@ -29,7 +30,8 @@ const styles = StyleSheet.create({
     },  
     time:{
         fontSize:16, 
-        color:'grey'
+        color:'grey',
+    
     }
 
 });

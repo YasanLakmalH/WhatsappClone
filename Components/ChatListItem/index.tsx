@@ -31,8 +31,8 @@ const ChatListItem = (props: ChatListItemProps) => {
           <View style={styles.midContainer}>
             <Text style={styles.userName}>{chatRoom.users[1].name}</Text>
             <Text style={styles.lastMessage}>
-              {chatRoom.lastMessage.content.length > 40
-                ? `${chatRoom.lastMessage.content.slice(0, 40)}...`
+              {chatRoom.lastMessage.content.length > 20
+                ? `${chatRoom.lastMessage.content.slice(0, 20)}...`
                 : `${chatRoom.lastMessage.content}`}
             </Text>
           </View>
